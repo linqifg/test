@@ -1,5 +1,5 @@
 http://www.cnblogs.com/javawebsoa/archive/2013/04/19/3030590.html
-
+http://bbs.csdn.net/topics/360050777
 
 var store = Ext.create("Ext.data.TreeStore", {
 	  //model : 'node.model.Node',//用model传递不了数据
